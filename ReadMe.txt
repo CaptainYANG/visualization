@@ -1,0 +1,1 @@
+To run the source code, you need to have Processing on your computer, and then put the ControlP5 file into the libraries of Processing.
